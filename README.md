@@ -1,6 +1,4 @@
-# Ejercicios TypeScript
-
-# Ejercicios TypeScript
+# Ejercicios TypeScript 1-6
 
 ## Ejercicio 1
 
